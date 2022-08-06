@@ -1,12 +1,12 @@
 import './App.css';
 import Main from './components/Main.js'
-import Logo from './components/Logo.js'
+import Header from './components/Header.js'
 
 
 function App() {
   return (
     <div className="App">
-      <Logo/>
+      <Header/>
       <Main/>
       
      

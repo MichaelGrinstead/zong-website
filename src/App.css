@@ -68,18 +68,45 @@ body {
   and (max-device-width: 667px) 
   and (-webkit-min-device-pixel-ratio: 2) {
 
+    .Main {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: flex-start;
+      gap: 20px;
+      margin-right: 10%;
+      margin-left: 10%;
+      background-color: black;
+      margin-top: 10%;
+      height: 2000px
+    
+    }
+
     .Menu {
       display: none;
+    }
+
+    .Header-menu {
+      display: flex;
+      justify-content: center;
+      color:#ddcab9;
+      margin-top: 20px;
+      gap: 10px;
     }
 
     .Mobile-Menu {
       height: 40px;
       width: 40px;
-      color: #ddcab9;
-      position: absolute; 
-      top: 40px;
-      right: 40px;
+    
     }
+
+    .Social-icon {
+      height: 40px;
+      width: 40px;
+    }
+
+
+
 
 
     .Zong-logo {

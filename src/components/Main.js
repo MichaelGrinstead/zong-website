@@ -1,13 +1,13 @@
 import React from 'react'
 import serpentSingle from '../serpent-single.jpg'
-import { IoIosMenu } from 'react-icons/io'
+
  
 
 const Main = () => {
   return (
     <div className= 'Main'>
 
-      <IoIosMenu className= 'Mobile-Menu'/>
+      
 
       <div className= 'Menu'>
           <h3>Home</h3>
