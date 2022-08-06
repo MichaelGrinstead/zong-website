@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/zong-website/static/css/main.69d59348.css",
-    "main.js": "/zong-website/static/js/main.1c5d76ae.js",
+    "main.css": "/zong-website/static/css/main.06dae9c4.css",
+    "main.js": "/zong-website/static/js/main.959b4665.js",
     "static/js/787.38a47cce.chunk.js": "/zong-website/static/js/787.38a47cce.chunk.js",
     "static/media/zong-background.jpg": "/zong-website/static/media/zong-background.8a97af3e9a4e9f4147de.jpg",
     "static/media/serpent-single.jpg": "/zong-website/static/media/serpent-single.32a736911f8e836dbf85.jpg",
     "static/media/zong-logo.png": "/zong-website/static/media/zong-logo.2b0ce3ea2622852ee35d.png",
     "index.html": "/zong-website/index.html",
-    "main.69d59348.css.map": "/zong-website/static/css/main.69d59348.css.map",
-    "main.1c5d76ae.js.map": "/zong-website/static/js/main.1c5d76ae.js.map",
+    "main.06dae9c4.css.map": "/zong-website/static/css/main.06dae9c4.css.map",
+    "main.959b4665.js.map": "/zong-website/static/js/main.959b4665.js.map",
     "787.38a47cce.chunk.js.map": "/zong-website/static/js/787.38a47cce.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.69d59348.css",
-    "static/js/main.1c5d76ae.js"
+    "static/css/main.06dae9c4.css",
+    "static/js/main.959b4665.js"
   ]
 }
