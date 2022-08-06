@@ -53,3 +53,26 @@ body {
   color:#fc5751;
 
 }
+
+@media only screen 
+  and (min-device-width: 375px) 
+  and (max-device-width: 667px) 
+  and (-webkit-min-device-pixel-ratio: 2) {
+
+
+    .Menu {
+  
+      display: flex;
+      align-items: flex-start;
+      justify-content: center;
+      height: 200px;
+      margin-right: 5vw;
+      margin-left: 5vw;
+      color: #ddcab9;
+      gap: 15px;
+      font-size: small;
+      
+    }
+
+
+  }
