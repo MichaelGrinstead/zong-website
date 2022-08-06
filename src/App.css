@@ -59,8 +59,21 @@ body {
   and (max-device-width: 667px) 
   and (-webkit-min-device-pixel-ratio: 2) {
 
-
     .Menu {
+      display: none;
+    }
+
+    .Mobile-Menu {
+      height: 40px;
+      width: 40px;
+      color: #ddcab9;
+      position: absolute; 
+      top: 55px;
+      right: 40px;
+    }
+
+
+    /* .Menu {
   
       display: flex;
       align-items: flex-start;
@@ -72,7 +85,7 @@ body {
       gap: 15px;
       font-size: 14px;
       
-  }
+  } */
 
   .Serpent-single-title {
     color:#fc5751;
