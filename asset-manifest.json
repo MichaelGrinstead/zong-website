@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/MichaelGrinstead/zong-website/static/css/main.d167ac94.css",
-    "main.js": "/MichaelGrinstead/zong-website/static/js/main.3e90f972.js",
-    "static/js/787.38a47cce.chunk.js": "/MichaelGrinstead/zong-website/static/js/787.38a47cce.chunk.js",
-    "static/media/serpent-single.jpg": "/MichaelGrinstead/zong-website/static/media/serpent-single.32a736911f8e836dbf85.jpg",
-    "static/media/zong-background.jpg": "/MichaelGrinstead/zong-website/static/media/zong-background.0abee2b6175bc3d6b656.jpg",
-    "index.html": "/MichaelGrinstead/zong-website/index.html",
-    "main.d167ac94.css.map": "/MichaelGrinstead/zong-website/static/css/main.d167ac94.css.map",
-    "main.3e90f972.js.map": "/MichaelGrinstead/zong-website/static/js/main.3e90f972.js.map",
-    "787.38a47cce.chunk.js.map": "/MichaelGrinstead/zong-website/static/js/787.38a47cce.chunk.js.map"
+    "main.css": "/static/css/main.4a520f87.css",
+    "main.js": "/static/js/main.d54ff787.js",
+    "static/js/787.38a47cce.chunk.js": "/static/js/787.38a47cce.chunk.js",
+    "static/media/serpent-single.jpg": "/static/media/serpent-single.32a736911f8e836dbf85.jpg",
+    "static/media/zong-background.jpg": "/static/media/zong-background.0abee2b6175bc3d6b656.jpg",
+    "index.html": "/index.html",
+    "main.4a520f87.css.map": "/static/css/main.4a520f87.css.map",
+    "main.d54ff787.js.map": "/static/js/main.d54ff787.js.map",
+    "787.38a47cce.chunk.js.map": "/static/js/787.38a47cce.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d167ac94.css",
-    "static/js/main.3e90f972.js"
+    "static/css/main.4a520f87.css",
+    "static/js/main.d54ff787.js"
   ]
 }
