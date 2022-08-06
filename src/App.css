@@ -1,38 +1,55 @@
-.App {
-  text-align: center;
+body {
+  height: 100%;
+  width: 100%;
+  background-image: url('zong-background.jpg');
+  background-position: top;
+  background-size: 100%;
+  background-repeat: repeat-y;
+ 
+
+
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+.Main {
   display: flex;
   flex-direction: column;
   align-items: center;
+  justify-content: flex-start;
+  gap: 20px;
+  margin-right: 10%;
+  margin-left: 10%;
+  background-color: black;
+  margin-top: 28%;
+  height: 2000px
+
+}
+
+.Menu {
+  
+  display: flex;
+  align-items: flex-start;
   justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+  height: 200px;
+  margin-right: 5vw;
+  margin-left: 5vw;
+  color: #ddcab9;
+  gap: 15px;
+  
 }
 
-.App-link {
-  color: #61dafb;
+.Zong-background {
+ position: relative;
+ 
+} 
+
+.Serpent-single {
+  height: 600px;
+  width: 600px;
+  text-align: center;
+  
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.Serpent-single-title {
+  color:#fc5751;
+
 }
