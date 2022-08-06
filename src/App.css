@@ -19,7 +19,7 @@ body {
   margin-right: 10%;
   margin-left: 10%;
   background-color: black;
-  margin-top: 28%;
+  margin-top: 30%;
   height: 2000px
 
 }
@@ -41,6 +41,15 @@ body {
  position: relative;
  
 } 
+
+.Zong-logo {
+  height: 300px;
+  color: #ddcab9;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 300px;
+}
 
 .Serpent-single {
   height: 600px;
@@ -68,28 +77,24 @@ body {
       width: 40px;
       color: #ddcab9;
       position: absolute; 
-      top: 55px;
+      top: 40px;
       right: 40px;
     }
 
 
-    /* .Menu {
-  
-      display: flex;
-      align-items: flex-start;
-      justify-content: center;
-      height: 80px;
-      margin-right: 5vw;
-      margin-left: 5vw;
+    .Zong-logo {
+      height: 100px;
       color: #ddcab9;
-      gap: 15px;
-      font-size: 14px;
-      
-  } */
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+      margin-top: 100px;
+    }
 
   .Serpent-single-title {
     color:#fc5751;
     font-size: 16px;
+    margin-top: 50px;
   
   }
 
